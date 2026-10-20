@@ -1,0 +1,1 @@
+Author-supplied R scripts and reports were refactored for reproducible execution. Original files are preserved locally. Report screenshots and historical results are not passed off as newly executed outputs. Source-machine paths and student identifiers are omitted. Commits record the actual work performed now.
