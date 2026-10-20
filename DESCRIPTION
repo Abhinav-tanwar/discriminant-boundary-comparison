@@ -1,0 +1,7 @@
+Package: discriminantboundarycomparison
+Title: Discriminant Boundary Comparison
+Version: 1.0.0
+Authors@R: person("Abhinav", "Tanwar", role = c("aut", "cre"), email = "abhinav.t@careeritjob.com")
+Description: Held-out LDA and QDA evaluation with decision-region visualizations.
+License: file LICENSE
+Imports: MASS, jsonlite

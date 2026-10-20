@@ -1,0 +1,1 @@
+Supplied lda_qda_dataset-1.csv, renamed discriminant.csv. Feature1 and Feature2 are numeric predictors; Class is the target. Original generation and licensing details were not supplied. No identities are included.

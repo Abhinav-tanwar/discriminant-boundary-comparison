@@ -1,2 +1,3 @@
 # discriminant-boundary-comparison
-Held-out LDA and QDA classification with clear decision regions and reproducible evaluation in R.
+
+Reproducible R analysis. See data/README.md for input provenance.
